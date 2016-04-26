@@ -1,1 +1,2 @@
-echo $RANDOM 
+#Todays random number is: 
+17498 
